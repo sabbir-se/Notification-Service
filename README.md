@@ -1,2 +1,1 @@
-# Notification-Service
-Email notification micro-service
+# notification_service
